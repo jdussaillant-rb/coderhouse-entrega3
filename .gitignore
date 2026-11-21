@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Base vectorial local (se regenera con python ingest.py)
+vectorstore/

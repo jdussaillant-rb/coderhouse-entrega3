@@ -1,0 +1,4 @@
+# Dependencias de desarrollo y testeo (incluye las de ejecución)
+-r requirements.txt
+pytest>=9.2,<10
+pytest-asyncio>=1.5,<2
